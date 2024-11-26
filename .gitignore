@@ -1,1 +1,4 @@
 /bin/
+# Ignorar archivos de clase de Java
+*.class
+
